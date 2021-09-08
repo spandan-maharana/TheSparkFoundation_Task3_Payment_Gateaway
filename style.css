@@ -49,7 +49,7 @@ body {
 #header ul li a:hover,
 #header ul li a.active {
   background: blue;
-  color: black;
+  color: white;
 }
 section {
   position: relative;
